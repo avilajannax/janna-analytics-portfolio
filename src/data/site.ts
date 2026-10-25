@@ -7,10 +7,10 @@ export const site = {
   location: 'Toronto, Ontario, Canada',
   headline: 'Data Analyst | Business Intelligence & Reporting | Process Automation & Optimization',
   email: 'avilajannax@gmail.com',
-  github: '',
-  linkedin: '',
+  github: 'https://github.com/avilajannax',
+  linkedin: 'https://www.linkedin.com/in/avilajanna/',
   /** Path to the resume PDF inside /public, e.g. "/documents/resume.pdf" */
-  resumeUrl: '',
+  resumeUrl: '/documents/Janna-Avila-Resume.pdf',
 }
 
 export const isConfigured = (url: string | undefined): boolean =>
